@@ -9,7 +9,7 @@ a young man trying to be a successful software developer
 **> Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on Arduino Projects;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Adcenvced JavaScript topics.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Adcanvced JavaScript topics.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: sahnuraloglu@gmail.com;
@@ -22,7 +22,5 @@ a young man trying to be a successful software developer
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=loop-eren&&show_icons=true&title_color=ffffff&icon_color=228B22&text_color=E0FFFF&bg_color=151515">
-
-
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loop-eren&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=151515&title_color=ffffff&text_color=E0FFFF"/>
 </p>
