@@ -1,1 +1,0 @@
-const baby = 12
