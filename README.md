@@ -18,6 +18,7 @@ a young man trying to be a successful software developer
 
 
 
+
 <p>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loop-eren&&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=151515&title_color=ffffff&text_color=E0FFFF"/>
 </p>
